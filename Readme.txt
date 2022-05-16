@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Medicio
-Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Fully working PHP/AJAX contact form script is available in the pro version of the template.
+You can buy it from: https://bootstrapmade.com/medicio-free-bootstrap-theme/
